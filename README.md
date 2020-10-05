@@ -7,7 +7,6 @@
 
 ### If you have any work for me(_drop a message_):
 * [LinkedIN](https://www.linkedin.com/in/nitesh-narang-72511295/)
-* [Telegram]
 
 Apart from coding, I do read alot. Here are some of my all time favourite books:
 * Deep Work by Cal Newport.
