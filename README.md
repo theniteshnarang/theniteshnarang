@@ -1,9 +1,8 @@
 ### Hi there 👋
 ## I am Nitesh Narang a front-end-developer I like to spend most of my time learning and creating Web Applications using React, JavaScript, Html, and SCSS.
 
-**Here is some work you should visit:**
-* [Animated Portfolio Website](https://nitproject4.netlify.app/)
-* [Stylish Landing Page](https://nitproject3.netlify.app/)
+**Here is my portfolio site:**
+* [Nitesh Narang](https://niteshnarang.netlify.app/)
 
 ### If you have work for me (_drop a message_):
 * [LinkedIN](https://www.linkedin.com/in/nitesh-narang-72511295/)
