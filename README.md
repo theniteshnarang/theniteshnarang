@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Nitesh Narang a front-end-developer I like to spend most of my time learning and creating Web Applications using React, JavaScript, Html, and SCSS.
+## I am Nitesh Narang a front-end-developer I like to spend most of my time learning and creating Web Applications using MERN stack, Tailwind, SCSS.
 
 **Here is my portfolio site:**
 * [Nitesh Narang](https://niteshnarang.netlify.app/)
