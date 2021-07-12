@@ -6,6 +6,7 @@
 
 ### If you have work for me (_drop a message_):
 * [LinkedIN](https://www.linkedin.com/in/nitesh-narang-72511295/)
+* [Twitter](https://twitter.com/theniteshnarang)
 
 Apart from coding, I do read a lot. Here are some of my all-time favorite books:
 * Deep Work by Cal Newport.
