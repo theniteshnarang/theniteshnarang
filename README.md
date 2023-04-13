@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Nitesh Narang, a full-stack developer. I like to spend most of my time learning and creating Web Applications using MERN stack and, for styling the app, I have used Tailwind and SCSS.
+## I am Nitesh Narang, a computer science learner. I spend most of my time tinkering with Web Applications.
 
 **Here is my portfolio site:**
 * [Nitesh Narang](https://niteshnarang.netlify.app/)
