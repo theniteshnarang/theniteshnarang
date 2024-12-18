@@ -13,8 +13,7 @@ Apart from coding, I do read a lot. Here are some of my all-time favorite books:
 * Atomic Habits by James Clear.
 * Zero to One by Peter Thiel.
 
-I am curious to know how human minds work and how we can hack it for our advantage.
-My Target is to enhance my skills by working on more Open-source Projects and eager to learn from like-minded people.
+Thanks for reading.
 <!--
 **theniteshnarang/theniteshnarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
