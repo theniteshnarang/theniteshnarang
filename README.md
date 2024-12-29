@@ -1,17 +1,12 @@
 ### Hi there 👋
-## I am Nitesh Narang, a computer science learner. I spend most of my time tinkering with Web Applications.
+## I'm Nitesh Narang, a passionate computer science engineer. For me, coding is more than a skill—it's a meditative journey that brings peace and clarity to my mind. I thrive on solving real-world problems and turning ideas into impactful solutions.
 
 **Here is my portfolio site:**
 * [Nitesh Narang](https://niteshnarang.netlify.app/)
 
 ### If you have work for me (_drop a message_):
-* [LinkedIN](https://www.linkedin.com/in/nitesh-narang-72511295/)
-* [Twitter](https://twitter.com/theniteshnarang)
-
-Apart from coding, I do read a lot. Here are some of my all-time favorite books:
-* Deep Work by Cal Newport.
-* Atomic Habits by James Clear.
-* Zero to One by Peter Thiel.
+* [LinkedIN](https://www.linkedin.com/in/theniteshnarang/)
+* [Twitter](https://www.x.com/theniteshnarang)
 
 Thanks for reading.
 <!--
